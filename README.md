@@ -1,6 +1,5 @@
 # 欢迎来到我的GitHub个人[主页](https://www.lilpum.com)! 👋
 
-![lilpum](https://lilpum-1317057502.cos.ap-guangzhou.myqcloud.com/blog_lilpum_com/pic/202304092356706.jpg/lilpumpicstyle)
 
 ---
 
@@ -34,7 +33,7 @@
 - 🚀 科学上网魔法
 - 🤖 chatGPT
 - 🖼️ midjourney
-- 🖥️ Linux服务器
+- 🖥️ Linux服务器、NAS、unraid
 
 ---
 
