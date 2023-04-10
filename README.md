@@ -1,6 +1,6 @@
 # 欢迎来到我的GitHub个人主页! 👋
 
-[https://lilpum-1317057502.cos.ap-guangzhou.myqcloud.com/blog_lilpum_com/202304092356706.jpg/lilpumpicstyle](https://lilpum-1317057502.cos.ap-guangzhou.myqcloud.com/blog_lilpum_com/202304092356706.jpg/lilpumpicstyle)
+[lilpum](https://cdn.midjourney.com/00ea18b1-5f41-4998-b912-3d7d0a2a962c/0_0.png)
 
 ---
 
