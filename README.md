@@ -1,8 +1,9 @@
 # 欢迎来到我的GitHub个人主页! 👋
 
-[lilpum](https://cdn.midjourney.com/00ea18b1-5f41-4998-b912-3d7d0a2a962c/0_0.png)
+[lilpum.com](https://lilpum-1317057502.cos.ap-guangzhou.myqcloud.com/blog_lilpum_com/pic/202304092356706.jpg/lilpumpicstyle)
 
 ---
+
 
 ## **你好，我是 lilpum! 🤖**
 
